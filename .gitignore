@@ -1,0 +1,8 @@
+*CHGCAR
+*WAVECAR
+*PROCAR
+*vasprun.xml
+./WAVECAR
+./noncollinear/PROCAR
+./noncollinear/vasprun.xml
+./noncollinear/WAVECAR
