@@ -5,10 +5,10 @@
 #SBATCH --account=lr_nokomis
 #SBATCH --qos=condo_nokomis
 
-#SBATCH --nodes=2
+#SBATCH --nodes=5
 #SBATCH --ntasks-per-node=8
 
-#SBATCH --time=1:00:00
+#SBATCH --time=48:00:00
 
 #SBATCH --error=job.err
 #SBATCH --output=job.out
